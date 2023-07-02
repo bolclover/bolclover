@@ -1,6 +1,6 @@
 - 👋 Hi, We are bol.colver.solution
 - 👀 We interested in Data Analyst
-- 🌱 We’ve experience in E-commerce, Finance, Retail (AMAZON, DELLOITE)
+- 🌱 We’ve experience in Auditing, E-commerce, Retail (DELOITTE, AMAZON, WALMART, WAYFAIR)
 
 
 <!---
